@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5f513bd-e5cb-4b58-bda4-484c55f547ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VeUFkFLJUfDbiYs4zsqRtmLzpu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Click">
+    <configuration name="Click" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Click.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="click" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/click.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Click" />
+        <item itemvalue="Python.click" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5f513bd-e5cb-4b58-bda4-484c55f547ee" name="Default Changelist" comment="" />
+      <created>1577612952703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577612952703</updated>
+    </task>
+    <task id="LOCAL‎00001" summary="up to github">
+      <created>1577626537301</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1577626537301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="up to github" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="0" key="#Click" timestamp="1577627040564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#Click/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577627040564" />
+    <state x="284" y="0" width="798" height="727" key="CommitChangelistDialog2" timestamp="1577626535893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="0" width="798" height="727" key="CommitChangelistDialog2/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626535893" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577626896876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626896876" />
+    <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog" timestamp="1577626952431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626952431" />
+    <state x="556" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1577626884256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626884256" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1577626595381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626595381" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1577626595381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626595381" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1577626595380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626595380" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1577626595381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626595381" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577626557594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626557594" />
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577626844910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626844910" />
+  </component>
+</project>
