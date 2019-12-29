@@ -161,14 +161,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="0" key="#Click/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577627040564" />
+    <state x="275" y="23" key="#Notifications" timestamp="1577627500975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577627500975" />
     <state x="284" y="0" width="798" height="727" key="CommitChangelistDialog2" timestamp="1577626535893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="284" y="0" width="798" height="727" key="CommitChangelistDialog2/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626535893" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577626896876">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577627562400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626896876" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577627562400" />
     <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog" timestamp="1577626952431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -197,6 +201,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577626557594" />
+    <state x="513" y="156" key="svn.repositoryBrowser" timestamp="1577627551400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="156" key="svn.repositoryBrowser/0.0.1366.728/-1920.-158.1920.1040@0.0.1366.728" timestamp="1577627551400" />
     <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577626844910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
